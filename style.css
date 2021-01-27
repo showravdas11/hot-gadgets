@@ -1,0 +1,59 @@
+.buy-now{
+    border: none;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    padding: 10px
+
+}
+
+#carouselExampleIndicators li{
+    background-color: rgb(255, 230, 0);
+    padding: 3px;
+    border-radius: 10px;
+}
+.phone{
+    padding: 0 30px;
+}
+.see{
+    padding-left: 1200px;
+    color: orange;
+}
+.container-leptop{
+    margin-bottom: 100px;
+}
+.side{
+    color: orange;
+}
+.card{
+    margin:auto;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.line{
+    margin: 50px 40%;
+    padding: 4px;
+    background-color: tomato;
+}
+.blog1{
+    text-align: center;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    padding: 50px;
+    margin-left: 20px;
+}
+.blog2{
+    text-align: center;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    padding: 50px;
+    margin-left: 20px;
+}
+.blog3{
+    text-align: center;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    padding: 50px;
+    margin-left: 20px;
+}
+
